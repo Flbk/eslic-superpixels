@@ -23,6 +23,12 @@ To install everything run (with your activated env):
 pip install -r requirements.txt
 ```
 
+## Global framework
+
+The main file is `pixeliser.py`. It contains the main classes for SLIC pixelisation and E-SLIC pixelisation.
+
+The file `metrics.py` contains the code for the different metrics we used to evaluate our algorithms.
+
 ## Images and segmentation data
 
 Download the BSD500 dataset [here](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_bsds500.tgz).
