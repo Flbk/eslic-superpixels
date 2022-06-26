@@ -4,7 +4,7 @@ This repository contains the work done on the subject of Superpixle for the cour
 We present the SLIC algorithm, propose a full Python implementation.
 The main contribution is the proposal of a new algorithm named Energetic-SLIC (E-SLIC) that leverages image spectral information to improve SLIC segmentation, based on several metrics.
 
-The full report is in the file `project_report.pdf`.
+The full report is in the file `project_report.pdf` (the images has been compressed due to GitHub size limit).
 
 ## Requirements
 
