@@ -7,7 +7,7 @@ The main contribution is the proposal of a new algorithm named Energetic-SLIC (E
 The full report is in the file `project_report.pdf` (the images has been compressed due to GitHub size limit).
 
 ![SLIC pixelisation](insect_slic.png "SLIC pixelisation")
-First imge shows pixelisation with base SLIC algorithm.
+First image shows pixelisation with base SLIC algorithm.
 
 ![Energetic-SLIC pixelisation](insect_e-slic.png "Energetic SLIC pixelisation")
 Second image shows pixelisation with our new Energetic-SLIC algorithm.
