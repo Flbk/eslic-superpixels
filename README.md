@@ -1,5 +1,11 @@
 # VIC course project on SuperPixels!
 
+This repository contains the work done on the subject of Superpixle for the course VIC from CentraleSupélec.
+We present the SLIC algorithm, propose a full Python implementation.
+The main contribution is the proposal of a new algorithm named Energetic-SLIC (E-SLIC) that leverages image spectral information to improve SLIC segmentation, based on several metrics.
+
+The full report is in the file `project_report.pdf`.
+
 ## Requirements
 
 We will try to use a `requirements.txt` file to manage dependencies.
