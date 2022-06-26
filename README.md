@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Global framework
 
-The main file is `pixeliser.py`. It contains the main classes for SLIC pixelisation and E-SLIC pixelisation.
+The main file is `pixelisers.py`. It contains the main classes for SLIC pixelisation and E-SLIC pixelisation.
 
 The file `metrics.py` contains the code for the different metrics we used to evaluate our algorithms.
 
