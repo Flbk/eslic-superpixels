@@ -1,0 +1,9 @@
+black==21.12b0
+isort==5.10.1
+jupyter==1.0.0
+matplotlib==3.5.1
+notebook==6.4.6
+numpy==1.22.0
+scikit-image==0.19.1
+scipy==1.7.3
+tqdm==4.62.3
