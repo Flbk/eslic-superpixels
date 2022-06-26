@@ -6,6 +6,10 @@ The main contribution is the proposal of a new algorithm named Energetic-SLIC (E
 
 The full report is in the file `project_report.pdf` (the images has been compressed due to GitHub size limit).
 
+![SLIC pixelisation](images/insect_slic.png "SLIC pixelisation")
+
+![Energetic-SLIC pixelisation](images/insect_e-slic.png "Energetic SLIC pixelisation")
+
 ## Requirements
 
 We will try to use a `requirements.txt` file to manage dependencies.
